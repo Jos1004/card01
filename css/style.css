@@ -145,10 +145,14 @@ button:hover{
 
 
 @media (max-width: 600px) {
+    body{
+        min-height: 110vh;
+    }
     .card{
         min-height: 35em;
         min-width: 20em;
     }
 
 }
+
 
